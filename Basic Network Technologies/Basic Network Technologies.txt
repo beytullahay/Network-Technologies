@@ -1,0 +1,84 @@
+
+Network Tarihçesi
+
+---------------------------------------------------
+
+1970 ArpaNet ile başlandı
+
+---------------------------------------------------
+
+Devre Anahtarlama (Telefon örneği tek bir ağ var)
+				  (Başka bir işlem için öncekinin bitmesi gerekir)
+Paket Anahtarlama (Verinin küçük parçalara ayrılmış hali)
+                  (Birden fazla yolla gidebilir)
+                  (İnternet Alt yapısı budur)
+
+
+---------------------------------------------------
+
+Ağ: İki veya daha fazla pcnin kablolu veya kablosuz bağlanıp 
+    veri aktarmasına network denir.
+
+IP: İnternet Protokolü. Ağlar arası iletişimi düzenler.
+    32 bitten oluşur. IPV4 --> IPV6 
+
+P2P: Peer to Peer. Merkezi kontrole ihtiyaç duymadan iki+ 
+     pc nin veri paylaşmak için birbirine bağlandığı ap protokolü.
+
+
+---------------------------------------------------
+
+Ağ Diyagramı: Şekillerle gösterme 
+
+Topoloji: Fiziksel Topoloji: Kablo, pc, falan gösterme
+		  Mantıksal Toploji: Cihazları, Portaları, Adresleme şeması.
+
+LAN: Yerel Ağ, birbirine yakın cihazların iletişimi.
+WAN: Coğrafi olaran en geniş alanı kapsayan ağ çeşidi.
+MAN: Birden çok LAN barındıran ağ sistemi.
+PAN: Kişisel cihazların bağlantıları.
+
+---------------------------------------------------
+
+YAYINLAR
+Unicast:   Ana Pc'den bir bilgisayara gönderilen yayın.
+BroadCast: Ana Pc'den altından bulunan tüm ağlara yayın.
+Multicast: Ana Pc'den belirli bir ana pc'e gönderilen yayın.
+		   Altındakilerin hepsine değil seçilenlere.
+
+---------------------------------------------------
+
+AĞ İLETİŞİM PROTOKOLLERİ
+https
+IPv6
+TCP/IP
+
+---------------------------------------------------
+AĞ GÜVENLİK PROTOKOLLERİ
+SSH
+SSL
+TLS/SSL
+
+---------------------------------------------------
+
+statik ip bilgilerinin manuel olarak girilmesidir.
+dinamik ip adresleme otomatik olarak verilir. (DHCP) 
+
+---------------------------------------------------
+
+Http güvenli değildidr.
+Htpps güvenlidir. SSL ile kontrol eder.
+
+---------------------------------------------------
+
+Telnet uzaktan erişim için kullanılır.
+SSH uzaktan erişim ve yönetim. Güvenlik kabuk anlamına gelir. (Secure Shell)
+    şifreleme yaparak gönderir.
+
+---------------------------------------------------
+
+
+
+
+
+
